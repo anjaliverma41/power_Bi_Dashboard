@@ -1,4 +1,4 @@
- Project Tittle -Health Care Analytical Dashboard 
+ **Project Tittle -Health Care Analytical Dashboard** 
  
 Objective: To analyze healthcare data and uncover key patterns in patients’ health conditions, habits, and risk levels to support better decision-making in public health strategies.
 Key Metrics Overview -  Total Patients Analyzed: 5,191
